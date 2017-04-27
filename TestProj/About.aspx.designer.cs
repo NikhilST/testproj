@@ -10,7 +10,7 @@
 namespace TestProj
 {
     //changes made to feature/aar-2
-
+    //2nd bug fixed
     public partial class About
     {
     }
